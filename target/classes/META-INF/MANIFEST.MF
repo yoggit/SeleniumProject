@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: Modern Java RPC stack using Jetty+Jersey+Jackson
+ +MessagePack (from https://github.com/making/msgpack-rpc-jersey-blank
+ )
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: yogi
+Implementation-Vendor-Id: com.Selenium
+Build-Jdk: 1.8.0_66
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: com.Selenium.App
+
